@@ -6,7 +6,6 @@ Classifies the comments of 4 YouTubers - Cleo Abram, Physics Girl, Jet Lag: The 
 ## Pipeline:
 - Data Loading and Pre-processing:</br>
 Dropping null comments and irrelevant columns, cleaning the comments data using NLTK, and converting the categorical data to numerical data using label encoding. The final pre-processed dataset consists of the "User", "Video Title", and "Comment Actual" columns.
-</br>
 
 - BERT Encoding
 
